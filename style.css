@@ -313,6 +313,7 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+
 }
 
 button:hover {
@@ -496,13 +497,15 @@ button:hover {
     height: 90%;
     display: flex;
     justify-content: space-between;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
   .myself {  
     font-weight: 500;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
-  
+.contact-form button{
+    text-align: center;
+}
   }
   
 
